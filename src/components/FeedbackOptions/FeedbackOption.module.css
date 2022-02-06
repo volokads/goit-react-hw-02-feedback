@@ -1,0 +1,12 @@
+.ul{
+    display: flex;
+    flex-direction: row;
+}
+.list{
+    padding-left: 10px;
+    list-style: none;
+}
+.btn{ 
+    border: 1px solid  ;
+    border-radius: 5px;
+}
